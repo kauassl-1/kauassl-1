@@ -2,8 +2,7 @@
 
 #
 
-<p align="center">Estudante de Ciência da Computação na Universidade do Estado do Rio de Janeiro. Atualmente estudo data science e visão computacional.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Graduando em Ciência da Computação pela Universidade do Estado do Rio de Janeiro (UERJ), com aprofundamento em Data Science e Visão Computacional. Profissional em constante atualização, motivado por desafios tecnológicos e apaixonado por aplicar novos conhecimentos no desenvolvimento de soluções inovadoras.
   
 #
 
